@@ -1,6 +1,6 @@
 {
     "name": "trexology/pointable",
-    "description": "Point system for Laravel 5",
+    "description": "Point system for Laravel 6",
     "keywords": ["points", "pointable", "laravel", "loyalty", "reward"],
     "license": "MIT",
     "authors": [
@@ -11,8 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.5.9",
-        "illuminate/support": "~5.0"
+        "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": {
